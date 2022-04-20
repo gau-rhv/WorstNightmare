@@ -1,6 +1,8 @@
 # WorstNightmare 👺🃏
 
 ## This is a C# script which overwrites Windows Master Boot records.
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 This will Destroy your Os and would not be able to get back your data
 
